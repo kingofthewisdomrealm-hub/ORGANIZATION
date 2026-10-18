@@ -1,23 +1,24 @@
-# Current Focus — 2026-10-04
+# Current Focus — 2026-10-18
 
 ## Single Theme This Week
-**One booked inspection. Not another repo.**
+**One booked inspection. Not another article, not another repo, not another brand.**
 
-Window: 2026-09-20 through 2026-10-04. Portfolio is 69 repos. 13 touched `pushed_at`. 56 did not. Meaningful product commits were in two places: Joe the Roofer launch (Sep 30) and Ruler of Wisdom episode catalog (Sep 30). Covenant's last commit (Sep 25) was careers privacy, not a door walked.
+Window: 2026-10-04 through 2026-10-18. Portfolio is 70 repos. 5 touched `pushed_at`. 65 did not. Meaningful product commits were almost entirely inside COVENANT (daily Porch articles, all Co-Authored-By Claude). No door walked. No call logged. No inspection booked.
 
-## What changed since the Sep 13 focus
+## What changed since the Oct 11 focus
 
-1. Production storm feed is no longer theater. `https://covenantbuilders.org/api/storm-reports?zip=34982` returns IEM/NWS events, including an Oct 1, 2026 52 mph gust at Treasure Coast Airport. The Sep 12 "404 on production" note is dead.
-2. Indian River canvass spec (Vero Lake Estates, MLB-HAIL-2025-05-24) is still unwalked. STREETS last commit is Sep 18 — outside this window.
-3. New cash-looking surfaces appeared and were not in the Sep 13 inventory: joetherooferllc (live phone 772-410-7170), legal-shield + legal-shield-crm (Sep 28 outreach machine). MONEY-BOTS logged "auto-send blocked; nothing sent" on Sep 28.
+1. COVENANT continued daily Porch articles for Vero, Sebastian, PSL, and Orlando. Facebook auto-post Action added (does nothing until secrets exist). Content volume remains high. Cash conversion remains zero.
+2. convenantbuilderscrm report cards still unused. Migration still unconfirmed.
+3. JOEY-MANDINGO remains a new public repo. Rule still broken.
+4. No other named cash or content track moved.
 
 ## Do this week
 
-- Pick one cash door: Covenant canvass, Joe the Roofer inbound, or LegalShield outreach. The other two get no new code.
-- If Covenant: export the Vero Lake Estates 250-row list, walk it, log dispositions in convenantbuilderscrm. No new training models.
-- If Joe: confirm the Vercel site actually rings (772) 410-7170 and log every call. Do not add city pages.
-- If LegalShield: send the blocked Monday batch or kill the bot.
+- Pick one cash door and force the conversion: walk a canvass list or log Joe calls. Everything else is parked.
+- If Covenant: export the existing Vero Lake Estates list (CANVASS-EVENT-VERO-LAKE-ESTATES-2025-05-24), walk it, log dispositions in convenantbuilderscrm. Do not write or ship another Porch article until the first inspection is booked.
+- If Joe: confirm the phone rings and log every call. Do not add city pages or a fourth roofing brand.
+- Archive or ignore JOEY-MANDINGO. Do not start a fifth brand.
 
 ## Explicit parks
 
-HVAC, PLUMBING, STORM, HOUSE, ROOF, RESTAURANT, IGLESIA, BODY, WORLD-CLASS-SPEAKER, delegationeconomy, MARKETING, agentic-shift, FOOD-BUSINESS, IGLESIAFELLSMERE, caliber, emotionaldamage-fyi, osminvc, chillicheesefry (empty), shadow-drift-onyx-stone, surf-and-turf-burrito-dot-come, LLM-VISUAL, theboywithsmallpockets, toastmasters (unless a paid talk is on the calendar).
+HVAC, PLUMBING, STORM, HOUSE, ROOF, RESTAURANT, IGLESIA, BODY, WORLD-CLASS-SPEAKER, delegationeconomy, MARKETING, agentic-shift, FOOD-BUSINESS, IGLESIAFELLSMERE, caliber, emotionaldamage-fyi, osminvc, chillicheesefry, shadow-drift-onyx-stone, surf-and-turf-burrito-dot-come, LLM-VISUAL, theboywithsmallpockets, toastmasters, MONEY-BOTS, JOEY-MANDINGO, legal-shield until founder picks, and every other silent repo.
